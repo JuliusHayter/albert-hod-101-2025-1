@@ -1,0 +1,2 @@
+# Clé API OpenAI
+OPENAI_API_KEY=votre_cle_api_openai_ici
